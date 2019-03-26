@@ -1,3 +1,4 @@
+# code to find prime numbers upto number n
 n=int(input())
 c=2
 print("2")
